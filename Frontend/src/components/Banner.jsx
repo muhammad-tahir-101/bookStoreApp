@@ -40,7 +40,7 @@ const Banner = () => {
               Enter valid email address
             </div>
           </div>
-          <button className="btn btn-secondary">Secondary</button>
+          <button className="btn btn-secondary">Get Started</button>
         </div>
 
         <div className=" order-1 w-full md:w-1/2 mt-10 md:mt-18  ml-0 md:ml-40">
